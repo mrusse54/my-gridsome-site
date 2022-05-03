@@ -8,7 +8,7 @@
               class="white--text align-end"
               height="200px"
               contain="true"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-capitalism-social-inequality-glyph-glyph-geotatah-6.png?token=GHSAT0AAAAAABSU3CGCR63F2JSBWTMG5SYYYTQQC5Q"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/shopping-cart-loaded.png?raw=true"
             >
               <v-card-title text=" indigo accent-3 #3D5AFE">2214 pyramid scheme</v-card-title>
             </v-img>
@@ -38,7 +38,7 @@
               class="white--text align-end"
               height="200px"
                contain="true"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-options-strategy-kiranshastry-lineal-kiranshastry.png?token=GHSAT0AAAAAABSU3CGD5EOK6DSDNQOGNF7GYTQQEYA"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-options-strategy-kiranshastry-lineal-kiranshastry.png?token=GHSAT0AAAAAABSU3CGDYMG4M5OWWWPPJZC2YTRLVPA"
 
             >
               <v-card-title>1212 five options</v-card-title>
@@ -66,7 +66,7 @@
               class="white--text align-end"
               height="200px"
                contain="true"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/shopping-cart-loaded.png?token=GHSAT0AAAAAABSU3CGDORBCELNKCV3AJFJMYTQQFBQ"
+              src="src/images/shopping-cart-loaded.png"
             >
               <v-card-title>2214 shopping cart</v-card-title>
             </v-img>
@@ -196,7 +196,7 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/domain.png?token=GHSAT0AAAAAABSU3CGCUGVIOZ3QYZTALR52YTQQQBQ"
+              src="src\images\ticket-confirmed.png"
                contain="true"
             >
               <v-card-title>1212 Movie tickets</v-card-title>
