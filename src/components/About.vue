@@ -5,7 +5,7 @@
         ><v-col id="portrait"
           ><v-img
             alt="Mitchell Russell"
-            src="https://github.com/mrusse54/4400/blob/main/portfolio/src/bk.jpg?raw=true"
+            src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/me.jpg?token=GHSAT0AAAAAABSU3CGDELWBFT4MZ44UBHCSYTQO3SQ"
             width="400"
           ></v-img
         ></v-col>

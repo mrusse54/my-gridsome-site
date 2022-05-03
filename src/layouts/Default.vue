@@ -3,11 +3,10 @@
     <v-card height="100%" width="256" class="mx-auto">
       <v-navigation-drawer class="indigo accent-3 #3D5AFE" dark permanent app>
         <v-container id="header-info">
-        <v-avatar
-            circle
-            color="primary"
-            size="70"
-          ></v-avatar>
+        <v-avatar>
+        <v-img src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/me.jpg?token=GHSAT0AAAAAABSU3CGDELWBFT4MZ44UBHCSYTQO3SQ"> </v-img>
+            
+          </v-avatar>
         <v-list-item>
           <v-list-item-content>
             <v-list-item-title class="text-h6">
