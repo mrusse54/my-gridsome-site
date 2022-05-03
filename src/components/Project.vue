@@ -116,7 +116,8 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/edit.png?token=GHSAT0AAAAAABSU3CGDRDTN73UUI7V6JPBIYTQQJ5A"
+              contain="true"
             >
               <v-card-title>1212 String manipulation</v-card-title>
             </v-img>

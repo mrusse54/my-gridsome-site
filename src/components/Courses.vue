@@ -259,10 +259,10 @@
                     <p class="mb-0">
                       <v-btn
                         block
-                        href="https://mrusse54.wixsite.com/agile"
+                        href="https://docs.google.com/document/d/14Kgk0lIokMkcTNLpkVwTMLpD9Kvxo7EsWQrR0FBZoWg/edit?usp=sharing"
                         class="indigo accent-3"
                       >
-                        Blog link
+                        Research Paper Link
                       </v-btn>
                     </p>
                   </v-card-text>
