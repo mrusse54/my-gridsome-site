@@ -7,7 +7,8 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-capitalism-social-inequality-glyph-glyph-geotatah-6.png?token=GHSAT0AAAAAABSU3CGDHDZDI2AQFGTVLFEQYTQPSAQ"
+              contain="true"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-capitalism-social-inequality-glyph-glyph-geotatah-6.png?token=GHSAT0AAAAAABSU3CGCR63F2JSBWTMG5SYYYTQQC5Q"
             >
               <v-card-title text=" indigo accent-3 #3D5AFE">2214 pyramid scheme</v-card-title>
             </v-img>
@@ -36,7 +37,8 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-options-strategy-kiranshastry-lineal-kiranshastry.png?token=GHSAT0AAAAAABSU3CGCZTYU2NVPJJNW7JCYYTQPVCQ"
+               contain="true"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-options-strategy-kiranshastry-lineal-kiranshastry.png?token=GHSAT0AAAAAABSU3CGD5EOK6DSDNQOGNF7GYTQQEYA"
 
             >
               <v-card-title>1212 five options</v-card-title>
@@ -62,8 +64,9 @@
           <v-card class="mx-auto" max-width="450">
             <v-img
               class="white--text align-end"
-              max-height="200px"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/shopping-cart-loaded.png?token=GHSAT0AAAAAABSU3CGC63NTOMS4AGPTLRKKYTQPXDA"
+              height="200px"
+               contain="true"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/shopping-cart-loaded.png?token=GHSAT0AAAAAABSU3CGDORBCELNKCV3AJFJMYTQQFBQ"
             >
               <v-card-title>2214 shopping cart</v-card-title>
             </v-img>

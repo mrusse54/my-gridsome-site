@@ -4,7 +4,7 @@
       <v-navigation-drawer class="indigo accent-3 #3D5AFE" dark permanent app>
         <v-container id="header-info">
         <v-avatar>
-        <v-img src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/me.jpg?token=GHSAT0AAAAAABSU3CGDELWBFT4MZ44UBHCSYTQO3SQ"> </v-img>
+        <v-img src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/me.jpg?token=GHSAT0AAAAAABSU3CGD6WWXFTXOMU5SQUXUYTQQBGA"> </v-img>
             
           </v-avatar>
         <v-list-item>
