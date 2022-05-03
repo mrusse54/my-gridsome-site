@@ -38,7 +38,7 @@
               class="white--text align-end"
               height="200px"
                contain="true"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-options-strategy-kiranshastry-lineal-kiranshastry.png?token=GHSAT0AAAAAABSU3CGDYMG4M5OWWWPPJZC2YTRLVPA"
+              src="	https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/shopping-cart-loaded.png?raw=true"
 
             >
               <v-card-title>1212 five options</v-card-title>
