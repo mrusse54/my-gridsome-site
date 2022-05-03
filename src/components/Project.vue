@@ -91,7 +91,8 @@
             <v-img
               class="white--text align-end"
               height="606px"
-              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+              contain="true"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-path-job-resume-becris-lineal-becris.png?token=GHSAT0AAAAAABSU3CGDFNOQI6PFZJL7YYXKYTQQHAA"
             >
               <v-card-title>A* Search</v-card-title>
             </v-img>
