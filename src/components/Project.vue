@@ -6,9 +6,8 @@
           <v-card class="mx-auto" width="450">
             <v-img
               class="white--text align-end"
-               
               height="200px"
-              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-capitalism-social-inequality-glyph-glyph-geotatah-6.png?token=GHSAT0AAAAAABSU3CGDHDZDI2AQFGTVLFEQYTQPSAQ"
             >
               <v-card-title text=" indigo accent-3 #3D5AFE">2214 pyramid scheme</v-card-title>
             </v-img>
