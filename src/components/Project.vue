@@ -143,7 +143,8 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/domain.png?token=GHSAT0AAAAAABSU3CGCUGVIOZ3QYZTALR52YTQQQBQ"
+               contain="true"
             >
               <v-card-title>Client website</v-card-title>
             </v-img>
@@ -169,7 +170,8 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/chessboard.png?token=GHSAT0AAAAAABSU3CGDZ2YUZBZTNG6DQ446YTQQQAA"
+               contain="true"
             >
               <v-card-title>Eight-Queens</v-card-title>
             </v-img>
@@ -194,7 +196,8 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/domain.png?token=GHSAT0AAAAAABSU3CGCUGVIOZ3QYZTALR52YTQQQBQ"
+               contain="true"
             >
               <v-card-title>1212 Movie tickets</v-card-title>
             </v-img>

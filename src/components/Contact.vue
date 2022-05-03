@@ -1,6 +1,8 @@
 <template>
   <section id="Contact">
+    
     <v-container id="sectionContainer" class="indigo accent-3 #3D5AFE">
+      <h1>Contact Me</h1>
       <form id="contactForm"
         name="contact"
         method="post"
@@ -28,7 +30,7 @@
           <textarea id="messageEntry" name="message" placeholder="Message" v-model="formData.message"></textarea>
         </div>
 
-        <button type="submit">Submit form</button>
+        <button id="subButton" type="submit">Submit</button>
       </form>
     </v-container>
   </section>
@@ -77,7 +79,11 @@ export default {
   margin-left: 450px;
 }
 
-
+#Contact h1{
+  margin-left: 410px;
+  margin-bottom: 10px;
+  color: white;
+}
 
 #sectionContainer {
     max-width: 3560px;
@@ -97,6 +103,11 @@ input{
 
 #emailEntry{
   min-width: 500px;
+}
+
+#subButton{
+  width: 70px;
+  
 }
 
 #messageEntry{
