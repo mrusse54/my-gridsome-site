@@ -37,7 +37,7 @@
               class="white--text align-end"
               height="200px"
               src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-options-strategy-kiranshastry-lineal-kiranshastry.png?token=GHSAT0AAAAAABSU3CGCZTYU2NVPJJNW7JCYYTQPVCQ"
-              
+
             >
               <v-card-title>1212 five options</v-card-title>
             </v-img>
@@ -62,8 +62,8 @@
           <v-card class="mx-auto" max-width="450">
             <v-img
               class="white--text align-end"
-              height="200px"
-              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+              max-height="200px"
+              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/shopping-cart-loaded.png?token=GHSAT0AAAAAABSU3CGC63NTOMS4AGPTLRKKYTQPXDA"
             >
               <v-card-title>2214 shopping cart</v-card-title>
             </v-img>
