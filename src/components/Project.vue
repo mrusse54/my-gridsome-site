@@ -8,7 +8,7 @@
               class="white--text align-end"
               height="200px"
               contain="true"
-              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/shopping-cart-loaded.png?raw=true"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/external-capitalism-social-inequality-glyph-glyph-geotatah-6.png?raw=true"
             >
               <v-card-title text=" indigo accent-3 #3D5AFE">2214 pyramid scheme</v-card-title>
             </v-img>
@@ -38,7 +38,7 @@
               class="white--text align-end"
               height="200px"
                contain="true"
-              src="	https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/shopping-cart-loaded.png?raw=true"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/external-options-strategy-kiranshastry-lineal-kiranshastry.png?raw=true"
 
             >
               <v-card-title>1212 five options</v-card-title>
@@ -66,7 +66,7 @@
               class="white--text align-end"
               height="200px"
                contain="true"
-              src="src/images/shopping-cart-loaded.png"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/shopping-cart-loaded.png?raw=true"
             >
               <v-card-title>2214 shopping cart</v-card-title>
             </v-img>
@@ -92,7 +92,7 @@
               class="white--text align-end"
               height="606px"
               contain="true"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/external-path-job-resume-becris-lineal-becris.png?token=GHSAT0AAAAAABSU3CGDFNOQI6PFZJL7YYXKYTQQHAA"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/external-path-job-resume-becris-lineal-becris.png?raw=true"
             >
               <v-card-title>A* Search</v-card-title>
             </v-img>
@@ -116,7 +116,7 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/edit.png?token=GHSAT0AAAAAABSU3CGDRDTN73UUI7V6JPBIYTQQJ5A"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/edit.png?raw=true"
               contain="true"
             >
               <v-card-title>1212 String manipulation</v-card-title>
@@ -143,7 +143,7 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/domain.png?token=GHSAT0AAAAAABSU3CGCUGVIOZ3QYZTALR52YTQQQBQ"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/domain.png?raw=true"
                contain="true"
             >
               <v-card-title>Client website</v-card-title>
@@ -170,7 +170,7 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="https://raw.githubusercontent.com/mrusse54/my-gridsome-site/main/src/images/chessboard.png?token=GHSAT0AAAAAABSU3CGDZ2YUZBZTNG6DQ446YTQQQAA"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/chessboard.png?raw=true"
                contain="true"
             >
               <v-card-title>Eight-Queens</v-card-title>
@@ -196,7 +196,7 @@
             <v-img
               class="white--text align-end"
               height="200px"
-              src="src\images\ticket-confirmed.png"
+              src="https://github.com/mrusse54/my-gridsome-site/blob/main/src/images/ticket-confirmed.png?raw=true"
                contain="true"
             >
               <v-card-title>1212 Movie tickets</v-card-title>
